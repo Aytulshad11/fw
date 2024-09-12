@@ -143,7 +143,7 @@ export default function Home() {
           <section className="w-full py-20 md:py-32 lg:py-48 border-b border-gold/20 bg-hero-pattern bg-cover bg-center">
             <div className="container px-4 md:px-6 mx-auto max-w-4xl">
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-center mb-8 text-gold">
-                Timeless Elegance
+                SN Enterprises
               </h1>
               <p className="text-xl md:text-2xl text-center mb-12 text-gray-300">
                 You need to login to see the content...
