@@ -119,7 +119,7 @@ export default function Home() {
           <section className="w-full py-20 md:py-32 lg:py-48 border-b border-gold/20 bg-hero-pattern bg-cover bg-center">
             <div className="container px-4 md:px-6 mx-auto max-w-4xl">
               <h6 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-center mb-8 text-gold">
-              Hello, As-salamu alaykum!
+              Hello,<br /> As-salamu alaykum!
               </h6>
               <div className="container px-4 md:px-6 mx-auto max-w-3xl text-justify">
             <FadeParagraph>
@@ -181,12 +181,19 @@ Hey, you aren't considering me cheap right? Abhi bhi iss week me shyd zyada irri
             </FadeParagraph>
             <FadeParagraph>
             So i think i should end now or else i will keep writing. 
-
+            </FadeParagraph>
+            
             So in the end, i pray Rabb ul Alamin bestows all the blessings on you to complete the masters successfully. Al-Hafeez protects you from all the difficulties and evils. Gives you a healthy body and mind. As-Shafee cures your father completely. 
             <br />
+            I know i might have irriated you quite a lot this week, and i am stil thinking whether i should send this or not. 
+            <br />
+            <FadeParagraph>
             Finally ending. Don't know whether i would get a chance to meet that's why i decided to write. If you get hurt by any of the words in this text, or if by any of my behaviour in the past or present, I ask your pardon. But will always be "GRATEFUL" to you for all the impact. In the future, if you feel like i am going in the wrong way or doing something that's not good, kindly correct me. 
+
+              <br />And sorry for the incovenience caused...
+            
               <br />
-              Stay safe, dhyan rakhna...
+              Stay safe, Dhyan rakhna...
 
 
 
