@@ -128,7 +128,7 @@ export default function Home() {
            I have had many friends since childhood and a few of them are very special to me who are still with me. Unlike School, not many became friends during college. But 4 of them are very close to me and you're one of them.
             </FadeParagraph>
             <FadeParagraph>
-            So to begin with, One of the regrets I have from my college life is that I couldn’t be a good friend to someone with whom I could have had a great friendship. Always thought to clarify it, but could never. 
+            So to begin with, One of the regrets I have from my college life is that I couldn’t be a good friend to someone with whom I could have had a great friendship. Always thought to clarify it, but i never could. 
             As you know, I was in a relationship with someone back then. On a random day when the colleges went offline, she(A) told me about one of her friends with whom she used to sit in the classroom. I didn't like it, i eventually asked her to maintain a distance with him. 
             Phir mere ek khas dost ne mujhse pucha college me girls me teri koi friend nahi bani kya. 
             Uss point pe i decided that i would not make any new friends among girls and jo hai unse distance maintain karega. So this was the reason i was never the same with you in offline as i used to be during online classes..
@@ -175,22 +175,24 @@ Hey, you aren't considering me cheap right? Abhi bhi iss week me shyd zyada irri
             And no matter wherever you go, you have very good friend.  The one who is the lord of the seven heavens and earth. You are a servant of the lord who is neither overtaken by drowsiness nor by sleep. You are an ummati of Prophet Muhammad (PBUH). You are a Mohammadi.
             </FadeParagraph>
             <FadeParagraph>
-            And also don't lose your aqidah. Well, would send you 2 reels. Ek baari check kar lena 
-
+            And also don't lose your aqidah. Well, would send you 2 reels. Ek baari check kar lena. 
+            Aurr whatsapp pe ek playlist bheja tha, tadabbur e Quran karke hoga, koshish karne thoda bhot dekho jab samay mile. kaafi kuch sikhne milega <br />
             And if you haven't installed twitter yet, to kar lena, indian embassy ka helpline save kar lena will send you the link.
             </FadeParagraph>
             <FadeParagraph>
             So i think i should end now or else i will keep writing. 
             </FadeParagraph>
-            
-            So in the end, i pray Rabb ul Alamin bestows all the blessings on you to complete the masters successfully. Al-Hafeez protects you from all the difficulties and evils. Gives you a healthy body and mind. As-Shafee cures your father completely. 
-            <br />
-            I know i might have irriated you quite a lot this week, and i am stil thinking whether i should send this or not. 
-            <br />
             <FadeParagraph>
+            So in the end, i pray Rabb ul Alamin bestows all the blessings on you to complete the masters successfully. Al-Hafeez protects you from all the difficulties and evils. Gives you a healthy body and mind. As-Shafee cures your father completely. 
+            </FadeParagraph>
+            <FadeParagraph>
+            I know i might have irriated you quite a lot this week, even i am stil thinking whether i should send this or not. 
+            <br />
+           
             Finally ending. Don't know whether i would get a chance to meet that's why i decided to write. If you get hurt by any of the words in this text, or if by any of my behaviour in the past or present, I ask your pardon. But will always be "GRATEFUL" to you for all the impact. In the future, if you feel like i am going in the wrong way or doing something that's not good, kindly correct me. 
-
-              <br />And sorry for the incovenience caused...
+            </FadeParagraph>
+            <FadeParagraph>
+              <br />And sorry for the disturbance caused throughout the week aur saying this again please don't take this in an either way...
             
               <br />
               Stay safe, Dhyan rakhna...
@@ -199,7 +201,7 @@ Hey, you aren't considering me cheap right? Abhi bhi iss week me shyd zyada irri
 
               <br />
               <br />
-                Good Bye Nabzz,
+                Good Bye Nabz,
                 <br />
                   As-salamu alaykum,
                 <br />
