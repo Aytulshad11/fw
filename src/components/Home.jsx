@@ -115,12 +115,12 @@ export default function Home() {
             </form>
           </div>
         ) : isLoggedIn ? (
-          // Content After Successful Login
+          
           <section className="w-full py-20 md:py-32 lg:py-48 border-b border-gold/20 bg-hero-pattern bg-cover bg-center">
             <div className="container px-4 md:px-6 mx-auto max-w-4xl">
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-center mb-8 text-gold">
-              As-salamu alaykum!
-              </h1>
+              <h6 className="text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight text-center mb-8 text-gold">
+              Hello, As-salamu alaykum!
+              </h6>
               <div className="container px-4 md:px-6 mx-auto max-w-3xl text-justify">
             <FadeParagraph>
             Hope it's going well there. Perhaps you might be thinking why the hell i made you read this way. Well, would like to say that some sentences may be fully unfiltered and I hope you don't get this in a wrong way. 
@@ -128,54 +128,75 @@ export default function Home() {
            I have had many friends since childhood and a few of them are very special to me who are still with me. Unlike School, not many became friends during college. But 4 of them are very close to me and you're one of them.
             </FadeParagraph>
             <FadeParagraph>
-            So to begin with, one of the regrets i do have from my college life is i couldn't be a good friend with someone,  whom i could've been good with. Always thought to clarify it, but could never. As you know, I was in a relationship with someone back then. On a random day when the colleges went offline, she(A) told me about one of her friends with whom she used to sit in the classroom. I didn't like it, i eventually asked her to maintain a distance with him. Phir mere ek khas dost ne mujhse pucha college me girls me teri koi friend nahi bani kya. Uss point pe i decided that i would not make any new friends among girls and jo hai unse distance maintain karega. So this was the reason i was never the same with you in  as i used to be during online
-              <br />
+            So to begin with, One of the regrets I have from my college life is that I couldn’t be a good friend to someone with whom I could have had a great friendship. Always thought to clarify it, but could never. 
+            As you know, I was in a relationship with someone back then. On a random day when the colleges went offline, she(A) told me about one of her friends with whom she used to sit in the classroom. I didn't like it, i eventually asked her to maintain a distance with him. 
+            Phir mere ek khas dost ne mujhse pucha college me girls me teri koi friend nahi bani kya. 
+            Uss point pe i decided that i would not make any new friends among girls and jo hai unse distance maintain karega. So this was the reason i was never the same with you in offline as i used to be during online classes..
+              
+            </FadeParagraph>
+            <FadeParagraph>
+            Aur phir aata hai, feb-march'23, life took a roller coaster ride. Ramadan 23 i was moving on. Tab ye sochke restrain kiya khud ko ki kahi ye na smjhe ki heartbreak hua hai to sympathy le raha hai.
+            <br />
+Phir, I decided in final year ki ab final year hai ab to sbse shi se behave karna hai. Even me and SK(one of the muslims in CSE 
+B) didn't have that great bond, it did become so great in CTC and in the following months. 
+<br /><br />
+But what happened has happened. It can't be changed.
+I'm not giving any excuse here, just telling taaki mujhe baad me regret naa rahe ki clear nahi kiya tha. 
+
+<FadeParagraph>
+But let's get back to you, you know what makes you special is the impact you have had in my life. From namaz to focusing back on career. You even corrected me many times. 
+I mean you won't believe, final year me jab bhi text kiya ya call kiya baar baar sochne ke baad kiya. Always used to think ki agar zyada text kiya to kahi irritate naa ho jaay. Cheap na smjh le...
+<br />
+<br />
+Hey, you aren't considering me cheap right? Abhi bhi iss week me shyd zyada irriate kar diya...
+
+</FadeParagraph>
+
+
+            </FadeParagraph>
+
+            <FadeParagraph>
+            Well, so now when you've finally landed in UK. Would like to throw some free advise. Thoda sa aur bore karunga bss...
+            So, you'll be living very very far away from your home, your family. You may tackle many things that might be very new for you. There may come a day when you'll feel low, would want to talk to anyone you know, but you may not let yourself do so. Musalla bichhake sidhe sajda. If you feel like going out to a cafe or restaurant and there's no one available to go with. Go alone.
+
+            </FadeParagraph>
+            <FadeParagraph>
+            Ky bakwas karne laga mai kaam ki baat chhod ke. health pe dhyan dena, bahar hi mat khate rehna. Jab body me capacity na ho tab bhi banana to padega aur khana bhi padega. Body me calories nii hogi to padhogi kaise? 
+            <br />Dekho you've gone there for studies so make sure you utilise the time usefully. Agle 4 mahine me DSA karo achhe se. System design karo. Projects hai hi tumhare pass. Internship vagerah karo. 6-7 mahina bss achhe se grind karo khud ko. Phir internships chalu. Masters khtm ho to sidhe 1-2 CR ka package leke nikalna h apne ko.
+            </FadeParagraph>
+            <FadeParagraph>And one more advice, make sure you aren't missing salah. Never indulge in anything that's forbidden. As far as I've seen you, you're an honorable woman. Please maintain it. Be yourself. 8-10 saal pehle ek quote padha tha paper me abhi yaha chipka deta, 
+            <br />
               <br />
               <div className="text-center">
-              <FadeParagraph > hello there</FadeParagraph></div>
-            </FadeParagraph>
-            <FadeParagraph>
-            Aur phir aata hai, march'23, life took a roller coaster ride. Ramadan 23 i was moving on. Tab ye sochke restrain kiya ki kahi ye na smjhe sympathy le raha hai. Phir apn aate ghar, semester breaks me. Tab apn deep dive karte sunnato pe. Phir aayi tuaha bin jalil bhai ki ek reel, that a girl and a boy must always have friendship in a respectful manner. Phir aur scholars ko suna malum chala that i had been playing with my akhirah since 2019. 
-
-I decided in final year ki ab final year hai atleast ab to sbse shi se behave karna hai. Even me and SK(one of the muslims in cse b
-B) didn't have that great bond, it did so great in CTC and in the following months. 
-
-Well I'm not giving any excuse here, just telling taaki mujhe baad me regret naa rahe ki clear nahi kiya tha. 
-
-But let's get back to you, you know what makes you special is the impact you have had in my life. From namaz to focusing back on career. You even corrected me many times. 
-I mean you won't believe, final year me jab bhi text kiya ya call kiya baar baar sochne ke baad kiya. Always used to think text se kahi irritate naa ho jaay. Cheap na smjh le...
-
-Hey, you aren't considering me cheap right? 
-
-Well, so now when you've finally landed in UK. Would like to throw some free advise. Thoda sa aur bore ho jayein bss...
-So, you'll be living very very far away from your home, your family. You may tackle many things that might be very new for you. There may come a day when you'll feel low, would want to talk to anyone you know, but you may not let yourself do so. Musalla bichhake sidhe sajda. If you feel like going out to a cafe or restaurant and there's no one available to go with. Go alone.
-            </FadeParagraph>
-
-            <FadeParagraph>
-            Ky bakwas karne laga mai kaam ki baat chhod ke. Dekho you've gone there for studies so make sure you utilise the time usefully. Agle 4 mahine me DSA karo achhe se. System design karo. Projects hai hi tumhare pass. Internship vagerah karo. 6-7 mahina bss acheh se grind karo khud ko. Phir internships chalu. Masters khtm ho to sidhe 1-2 CR ka package leke nikalna h apne ko.
-            </FadeParagraph>
-            <FadeParagraph>And one more advice, make sure you aren't missing salah. Never indulge in anything that's forbidden. As far as I've seen you, you're an honorable woman. Please maintain it. Be yourself. 8-10 saal pehle ek quote padha tha paper me abhi yaha chipka deta, " aasaan nahi hota aurat ka kirdar nibhana, safed chadar ki tarah hota hai aur daag paani se bhi lag skte hai"
+              <FadeParagraph > "Aasaan nahi hota aurat ka kirdar nibhana, <br />safed chadar ki tarah hota hai aur daag paani se bhi lag skta hai"</FadeParagraph></div>
 
             </FadeParagraph>
             <FadeParagraph>Try to safeguard your haya. Be in a good company. Bcs aap apne group ke 5 logo ke hi jaise hote ho. 
-            And no matter wherever you go, you have very good friend.  Who is the lord of the seven heavens and earth. You are a servant of the lord who is neither overtaken by drowsiness nor by sleep. You are an ummati of Prophet Muhammad (PBUH). You are a Mohammadi.
+            And no matter wherever you go, you have very good friend.  The one who is the lord of the seven heavens and earth. You are a servant of the lord who is neither overtaken by drowsiness nor by sleep. You are an ummati of Prophet Muhammad (PBUH). You are a Mohammadi.
             </FadeParagraph>
             <FadeParagraph>
             And also don't lose your aqidah. Well, would send you 2 reels. Ek baari check kar lena 
 
-And if you haven't installed twitter yet, to kar lena, indian embassy ka helpline save kar lena will send you the link.
+            And if you haven't installed twitter yet, to kar lena, indian embassy ka helpline save kar lena will send you the link.
             </FadeParagraph>
             <FadeParagraph>
-            So i think i should end writing or else i will keep writing. 
+            So i think i should end now or else i will keep writing. 
 
-So in the end, i wish Rabb ul Alamin bestows all the blessings to complete the masters successfully. Al Hafeez protects you from all the difficulties and evils. Gives you a healthy body and mind. As Shafee cures your father. 
+            So in the end, i pray Rabb ul Alamin bestows all the blessings on you to complete the masters successfully. Al-Hafeez protects you from all the difficulties and evils. Gives you a healthy body and mind. As-Shafee cures your father completely. 
+            <br />
+            Finally ending. Don't know whether i would get a chance to meet that's why i decided to write. If you get hurt by any of the words in this text, or if by any of my behaviour in the past or present, I ask your pardon. But will always be "GRATEFUL" to you for all the impact. In the future, if you feel like i am going in the wrong way or doing something that's not good, kindly correct me. 
+              <br />
+              Stay safe, dhyan rakhna...
 
-So, finally ending. Don't know whether i would get a chance to meet that's why i decided to write. But will always be "GRATEFUL" to you for all the impact. In the future also, if you feel like i am going in the wrong way, kindly correct me. 
 
-Stay safe, dhyan rakhna 
 
-Bye Nabzz 
-Fi-Amanillah
+              <br />
+              <br />
+                Good Bye Nabzz,
+                <br />
+                  As-salamu alaykum,
+                <br />
+                 Fi-Amanillah
             </FadeParagraph>
           </div>
             </div>
